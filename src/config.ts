@@ -54,7 +54,7 @@ const GLOBAL_CONFIG = {
   /**
    * 个人 Github 链接
    */
-  GITHUB_URL: "https://github.com/qwe776/Blog-Index/",
+  GITHUB_URL: "https://github.com/qwe776/",
   /**
    * 背景图片地址
    */
@@ -62,8 +62,8 @@ const GLOBAL_CONFIG = {
   /**
    * ICP 备案号，留空不显示
    */
-  ICP: "京ICP证000001号",
-  ICP_URL: "https://beian.miit.gov.cn/",
+  ICP: "",
+  ICP_URL: "",
   FOOTER_INFO: true,
   /**
    * 网站欢迎标语
