@@ -10,7 +10,7 @@ const WEBSITE_SORTS: WebsiteSort[] = [
 const WEBSITE_ITEMS: WebsiteItem[] = [
   {
     sortId: 1,
-    title: "主标题",
+    title: "傻逼",
     url: "http://www.your-web-page.com/",
     icon: "",
     color: "#0171CD",
